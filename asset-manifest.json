@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clock-project/static/css/main.ca8fa2fb.chunk.css",
+    "main.js": "/clock-project/static/js/main.e96d3404.chunk.js",
+    "main.js.map": "/clock-project/static/js/main.e96d3404.chunk.js.map",
+    "runtime-main.js": "/clock-project/static/js/runtime-main.46636241.js",
+    "runtime-main.js.map": "/clock-project/static/js/runtime-main.46636241.js.map",
+    "static/js/2.ed77c6b5.chunk.js": "/clock-project/static/js/2.ed77c6b5.chunk.js",
+    "static/js/2.ed77c6b5.chunk.js.map": "/clock-project/static/js/2.ed77c6b5.chunk.js.map",
+    "static/js/3.1cb79a54.chunk.js": "/clock-project/static/js/3.1cb79a54.chunk.js",
+    "static/js/3.1cb79a54.chunk.js.map": "/clock-project/static/js/3.1cb79a54.chunk.js.map",
+    "index.html": "/clock-project/index.html",
+    "static/css/main.ca8fa2fb.chunk.css.map": "/clock-project/static/css/main.ca8fa2fb.chunk.css.map",
+    "static/js/2.ed77c6b5.chunk.js.LICENSE.txt": "/clock-project/static/js/2.ed77c6b5.chunk.js.LICENSE.txt",
+    "static/media/beep.4e51af0a.wav": "/clock-project/static/media/beep.4e51af0a.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46636241.js",
+    "static/js/2.ed77c6b5.chunk.js",
+    "static/css/main.ca8fa2fb.chunk.css",
+    "static/js/main.e96d3404.chunk.js"
+  ]
+}
